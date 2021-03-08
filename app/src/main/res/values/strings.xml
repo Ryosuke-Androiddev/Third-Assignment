@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Third assignment</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="description">description</string>
+    <string name="title">title</string>
+    <string name="add">Add</string>
+</resources>
