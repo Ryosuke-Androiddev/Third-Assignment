@@ -41,8 +41,6 @@ class ListFragment : Fragment() {
 
         setupRecyclerview()
 
-        setHasOptionsMenu(true)
-
         return binding.root
     }
 
